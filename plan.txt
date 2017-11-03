@@ -1,0 +1,13 @@
+4.	Planning
+
+Timeline, like a git repo? Show changes
+
+Activities:
+•	Brainstorming: What is my interest, connection to ENVS, useful for ENVS
+•	Finding literature: ordering two books from Apress (ebay+ Roskilde Bibiliothek)
+•	Finding articles, forums, walkthroughs: dotnetcurry, MSDN, leastprivilege.com, Codeproject, johnhilton.net…
+•	Outline – first draft of report: better in advance, due to headings, table of contents, page numbering
+•	Problem formulation and methodology selection
+•	Planning the schedule and contacting the supervisor
+•	Read, understand, write code: try out and test, get consequences and conclusion, question the status quo, write it down and repeat (iterations)
+•	Conclusions!
