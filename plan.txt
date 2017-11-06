@@ -56,7 +56,7 @@ Methodology
 WEEK 45 (6th - 12th November)
 --------------------------------------------------------------------------------------------------------------
 
-Correcting Problem formulation and methodology if they are not satisfactory
+Finishing up problem formulation and methodology
 
 Basic HTTP security
 HTTP authentication and authorization
