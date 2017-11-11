@@ -59,8 +59,6 @@ WEEK 45 (6th - 12th November)
 Finishing up problem formulation and methodology
 
 Basic HTTP security
-HTTP authentication and authorization
-Architecture
 
 Dictionary: 
 	o	Tokens, claims, rights, identity, MFA, SAML, JWT, SSO, authn, authz, OpenID Conect, bearer token, SSL, 
@@ -74,6 +72,10 @@ Dictionary:
 --------------------------------------------------------------------------------------------------------------
 WEEK 46 (13th - 19th November)
 --------------------------------------------------------------------------------------------------------------
+
+HTTP authentication and authorization
+Architecture
+
 
 17th November, Friday
 	09:00 Dissertation course
