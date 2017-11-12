@@ -58,9 +58,11 @@ WEEK 45 (6th - 12th November)
 
 Finishing up problem formulation and methodology
 
+Both books arrived (deep dive into)
+
 Basic HTTP security
 
-Dictionary: 
+Dictionary as an artifact: 
 	o	Tokens, claims, rights, identity, MFA, SAML, JWT, SSO, authn, authz, OpenID Conect, bearer token, SSL, 
 		HTTPS
 
@@ -121,7 +123,7 @@ Difference between monolithic and modern apps?
 WEEK 49 (4th - 10th December)
 --------------------------------------------------------------------------------------------------------------
 
-Implementing and testing (Postman, Xunit)
+Implementing and testing (Fiddler, Postman, Xunit)
 
 
 
