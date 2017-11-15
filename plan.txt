@@ -75,9 +75,10 @@ Dictionary as an artifact:
 WEEK 46 (13th - 19th November)
 --------------------------------------------------------------------------------------------------------------
 
-HTTP authentication and authorization
+HTTP authentication and authorization (Identity Management)
 Architecture
 
+Sending a draft to Vibeke latest on Wednesday!
 
 17th November, Friday
 	09:00 Dissertation course
@@ -98,6 +99,7 @@ WEEK 47 (20th - 26th November)
 
 ASP.NET pipeline, Auth filters
 native: OpenID Connect, OAuth 2.0 middleware
+logging auditing and tracing
 
 
 **************************************************************************************************************
@@ -125,7 +127,7 @@ WEEK 49 (4th - 10th December)
 
 Implementing and testing (Fiddler, Postman, Xunit)
 
-
+OWASP Application Security risks & vulnerabilities
 
 
 
