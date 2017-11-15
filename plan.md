@@ -5,7 +5,7 @@
 ### Activities:
 
 * [x] __Brainstorming:__ What is my interest, connection to ENVS, useful for ENVS
-* [x] __Finding literature:__ ordering two books from Apress (ebay+ Roskilde Bibiliothek)
+* [x] __Finding literature:__ ordering two books from Apress (ebay+ Roskilde Bibiliothek) :books:
 * [ ] __Finding articles, forums, walkthroughs:__ dotnetcurry, MSDN, leastprivilege.com, Codeproject, johnhilton.net
 * [x] __Outline – first draft of report:__ better in advance, due to headings, table of contents, page numbering
 * [x] __Problem formulation:__ problem context and discussion and methodology selection
@@ -15,22 +15,22 @@
 
 
 
-## WEEK 44 (30th October - 5th November)     
+## WEEK 44 (30th October - 5th November) :octocat: 
 
                                                                                                                     
 
-* [x] __Make time planning!__ :octocat:
+* [x] __Make time planning!__ 
 
 * [x] __Brainstorming:__ What is my interest (API Security), Connection to ENVS (current API is not secured), useful for ENVS (could move from intranet to Internet)
 
 * [x] __Finding literature:__ 
  
-* __E-BAY:__ book purchased, expected delivery 8th November
+* __E-BAY:__ book purchased, expected delivery 8th November :package:
 
 		Lakshmiraghavan, B., 2013., Pro ASP.NET Web API Security, Securing ASP.NET Web API, Apress, Berkeley, 
 		CA New York, Softcover ISBN: 978-1-4302-5782-0
 		
-* __Roskilde Library:__ book's current location in Copenhagen, transfer requested, ETA N/A
+* __Roskilde Library:__ book's current location in Copenhagen, transfer requested, ETA N/A :blue_book:
 	
 		Ugurlu, T., Zeitler, A., Kheyrollahi, A., 2013., Pro ASP.NET Web API, HTTP Web Services in ASP.NET, 
 		Apress, Berkeley, CA, Softcover ISBN: 978-1-4302-4725-8
@@ -61,7 +61,7 @@
 
 * [x] __Sending a draft to Vibeke latest on Wednesday!__
 
-* [ ] __School events:__  :date: 17th November, Friday__09:00 Dissertation course and 13:00 Supervisor meeting!!!
+* [ ] __School events:__  :date: 17th November, Friday 09:00 Dissertation course and 13:00 Supervisor meeting!!!
 	
 * [ ] __Analysis:__ ASP.NET Web API auth scopes (global vs per-route),Is SSL in ISS level satisfactory? Web API security settings inheritance? Am really sure to stay with that host? What if re-hosting requirements come up?
 
@@ -93,7 +93,7 @@
 * [ ] __Analysis:__ finishing up report
 
 
-## WEEK 52 (25th - 31st December)
+## WEEK 52 (25th - 31st December) :warning:
 
 * [ ] __Coding:__ Implementing and testing
 * [ ] __Analysis:__ finishing up report
