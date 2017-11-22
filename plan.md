@@ -40,33 +40,42 @@
 
 * [x] __Problem formulation__
 
-* [ ] __Methodology:__ ways of answering the question(s)
+* [x] __Methodology:__ ways of answering the question(s)
 
-* [ ] __Dicussion:__ why I am doing it? why is it interesting? what would happen if not?
+* [x] __Dicussion:__ why I am doing it? why is it interesting? what would happen if not?
 
 
 ## WEEK 45 (6th - 12th November)
 
-* [ ] __Finishing up problem formulation and methodology__
+* [x] __Finishing up problem formulation and methodology__
 
 * [x] __Both books arrived:__ (deep dive into)
 
 * [x] __Analysis:__ Basic HTTP security
-* [ ] __Dictionary as an artifact:__ Tokens, claims, rights, identity, MFA, SAML, JWT, SSO, authn, authz, OpenID Conect, bearer token, SSL, HTTPS
+
 
 
 ## WEEK 46 (13th - 19th November)
 
-* [ ] __Analysis:__ HTTP authentication and authorization (Identity Management), Encryption and signing, Tokens, STS, WS-*, Trust brokering
+* [x] __Analysis:__ HTTP authentication and authorization (Identity Management), Encryption and signing, Tokens, STS, WS-*, Trust brokering
 
 * [x] __Sending a draft to Vibeke latest on Wednesday!__
 
-* [ ] __School events:__  :date: 17th November, Friday 09:00 Dissertation course and 13:00 Supervisor meeting!!!
+* [x] __School events:__  :date: 17th November, Friday 09:00 Dissertation course and 13:00 Supervisor meeting!!!
 	
-* [ ] __Analysis:__ ASP.NET Web API auth scopes (global vs per-route),Is SSL in ISS level satisfactory? Web API security settings inheritance? Am really sure to stay with that host? What if re-hosting requirements come up?
+* [x] __Analysis:__ ASP.NET Web API auth scopes (global vs per-route),Is SSL in ISS level satisfactory? Web API security settings inheritance? Am really sure to stay with that host? What if re-hosting requirements come up?
 
 
 ## WEEK 47 (20th - 26th November)
+
+* [ ] __Dictionary as an artifact:__ Tokens, claims, rights, identity, MFA, SAML, JWT, SSO, authn, authz, OpenID Conect, bearer token, SSL, HTTPS
+
+* [x] __Finding literature:__ 
+
+* __Roskilde Library:__ book's current location unknown, transfer requested, ETA N/A
+	
+		Sommerville, I. 2016., Software engineering, 
+		Pearson Education, Softcover ISBN: 978-0-1339-4303-0
 
 * [ ] __Analysis:__ ASP.NET pipeline, Auth filters, Message Handlers, Authorz pipeline, native: OpenID Connect, OAuth 2.0 middleware, logging auditing and tracing
 
