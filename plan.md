@@ -68,7 +68,7 @@
 
 ## WEEK 47 (20th - 26th November)
 
-* [ ] __Dictionary as an artifact:__ Tokens, claims, rights, identity, MFA, SAML, JWT, SSO, authn, authz, OpenID Conect, bearer token, SSL, HTTPS
+* [x] __Dictionary as an artifact:__ Tokens, claims, rights, identity, MFA, SAML, JWT, SSO, authn, authz, OpenID Conect, bearer token, SSL, HTTPS
 
 * [x] __Finding literature:__ 
 
@@ -77,12 +77,14 @@
 		Sommerville, I. 2016., Software engineering, 
 		Pearson Education, Softcover ISBN: 978-0-1339-4303-0
 
-* [ ] __Analysis:__ ASP.NET pipeline, Auth filters, Message Handlers, Authorz pipeline, native: OpenID Connect, OAuth 2.0 middleware, logging auditing and tracing
+* [x] __Analysis:__ ASP.NET pipeline, Auth filters, Message Handlers, Authorz pipeline, native: OpenID Connect, OAuth 2.0 middleware, logging auditing and tracing
 
 
 ## WEEK 48 (27th November - 3rd December)
 
-* [ ] __Analysis:__ External (3rd party) Auth services, Difference between monolithic and modern apps?
+* [x] __Sommerville book arrived:__ (deep dive into)
+
+* [x] __Analysis:__ External (3rd party) Auth services, Difference between monolithic and modern apps?
 
 
 ## WEEK 49 (4th - 10th December)
