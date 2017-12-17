@@ -89,19 +89,32 @@
 
 ## WEEK 49 (4th - 10th December)
 
-* [ ] __Coding:__ Implementing and testing (Fiddler, Postman, Xunit), OWASP Application Security risks & vulnerabilities
+* [x] __Coding:__ Implementing and testing
+
+* __code:__ mock Identity Provider: Identity Server 4 
+* __code:__ mock Client Application: MVC app
+* __code:__ mock API: ASP.NET Core 2.0 WebAPI
 
 
 ## WEEK 50 (11th - 17th December)
 
-* [ ] __Coding:__ Implementing and testing
-* [ ] __Analysis:__ finishing up report
+* [x] __Coding:__ Implementing and testing
+
+* __code:__ mock Identity Provider: test users with claims 
+* __code:__ mock Client Application: MVC app calling the API resources
+* __code:__ mock API: ASP.NET Core 2.0 WebAPI + Mock Database with Gases
+* __code:__ authentication and authorization logic, policies, roles, claims
+* __code:__ Serilog with Sinks (colored console and file)
+* __code:__ Swagger UI for documentation
+
+
+* [x] __Analysis:__ finishing up report
 
 
 ## WEEK 51 (18th - 24th December)
 
 * [ ] __Coding:__ Implementing and testing
-* [ ] __Analysis:__ finishing up report
+* [ ] __Analysis:__ finishing up report, OWASP Application Security risks & vulnerabilities
 
 
 ## WEEK 52 (25th - 31st December) :warning:
