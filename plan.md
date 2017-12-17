@@ -91,21 +91,21 @@
 
 * [x] __Coding:__ Implementing and testing
 
-* __code:__ mock Identity Provider: Identity Server 4 
-* __code:__ mock Client Application: MVC app
-* __code:__ mock API: ASP.NET Core 2.0 WebAPI
+* __code:__ mock Identity Provider: Identity Server 4 :white_check_mark:
+* __code:__ mock Client Application: MVC app :white_check_mark:
+* __code:__ mock API: ASP.NET Core 2.0 WebAPI :white_check_mark:
 
 
 ## WEEK 50 (11th - 17th December)
 
 * [x] __Coding:__ Implementing and testing
 
-* __code:__ mock Identity Provider: test users with claims 
-* __code:__ mock Client Application: MVC app calling the API resources
-* __code:__ mock API: ASP.NET Core 2.0 WebAPI + Mock Database with Gases
-* __code:__ authentication and authorization logic, policies, roles, claims
-* __code:__ Serilog with Sinks (colored console and file)
-* __code:__ Swagger UI for documentation
+* __code:__ mock Identity Provider: test users with claims :white_check_mark:
+* __code:__ mock Client Application: MVC app calling the API resources :white_check_mark:
+* __code:__ mock API: ASP.NET Core 2.0 WebAPI + Mock Database with Gases :white_check_mark: 
+* __code:__ authentication and authorization logic, policies, roles, claims :white_check_mark: 
+* __code:__ Serilog with Sinks (colored console and file) :white_check_mark:
+* __code:__ Swagger UI for documentation :white_check_mark:
 
 
 * [x] __Analysis:__ finishing up report
