@@ -6,11 +6,11 @@
 
 * [x] __Brainstorming:__ What is my interest, connection to ENVS, useful for ENVS
 * [x] __Finding literature:__ ordering two books from Apress (ebay+ Roskilde Bibiliothek) :books:
-* [ ] __Finding articles, forums, walkthroughs:__ dotnetcurry, MSDN, leastprivilege.com, Codeproject, johnhilton.net
+* [x] __Finding articles, forums, walkthroughs:__ dotnetcurry, MSDN, leastprivilege.com, Codeproject, johnhilton.net
 * [x] __Outline – first draft of report:__ better in advance, due to headings, table of contents, page numbering
 * [x] __Problem formulation:__ problem context and discussion and methodology selection
 * [x] __Planning:__ project management planning, the schedule and contacting the supervisor
-* [ ] __Read, understand, write code:__ try out and test, get consequences and conclusion, question the status quo, write it down and repeat (iterations)
+* [x] __Read, understand, write code:__ try out and test, get consequences and conclusion, question the status quo, write it down and repeat (iterations)
 * [ ] __Conclusions:__ is it right or wrong? can one be 100% sure
 
 
@@ -113,14 +113,24 @@
 
 ## WEEK 51 (18th - 24th December)
 
-* [ ] __Coding:__ Implementing and testing
-* [ ] __Analysis:__ finishing up report, OWASP Application Security risks & vulnerabilities
+* [x] __Testing:__ Unit Testing API :white_check_mark:
+* [ ] __Testing:__ Penetration testing: Fiddler as a reverse proxy
+* __pentest:__ Set Fiddler as a reverse proxy :white_check_mark:
+* __pentest:__ Using plain HTTP :white_check_mark:
+* __pentest:__ Sniffing access and identity tokens :white_check_mark:
+* __pentest:__ Inpersonate users and clients :white_check_mark:
+* __pentest:__ Switch to SSL/TLS
+* __pentest:__ Sniffing tokens ?
+* __pentest:__ Other
+
+* [ ] __Analysis:__ finishing up report
+
 
 
 ## WEEK 52 (25th - 31st December) :warning:
 
 * [ ] __Coding:__ Implementing and testing
-* [ ] __Analysis:__ finishing up report
+* [ ] __Analysis:__ finishing up report, OWASP Application Security risks & vulnerabilities
 
 
 ## WEEK 1 (1st - 7th January) :checkered_flag:
